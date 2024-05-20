@@ -1,0 +1,9 @@
+{
+  "dev": {
+    "driver": "postgres",
+    "host": "localhost",
+    "username": "postgres",
+    "password": "kiroro123",
+    "database": "postgres"
+  }
+}
